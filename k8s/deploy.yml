@@ -17,4 +17,4 @@ spec:
       - name: todolist
         image: triptisingh0/todo 
         ports:
-        - containerPort: 3000 
+        - containerPort: 5173 
